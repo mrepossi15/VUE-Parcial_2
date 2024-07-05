@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f4590b;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+input {
+  width: calc(100% - 2rem);
+  padding: 0.5rem;
+  margin: 1rem;
+  border: 1px;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #eb9430;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #bc841b;
+}
+
+h2 {
+  margin: 1rem;
+  color: #f4590b;
+}
+
+h3 {
+  margin: 0.5rem 0;
+}
